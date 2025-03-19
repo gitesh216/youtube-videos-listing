@@ -25,5 +25,5 @@ This project is a **YouTube Video Listing Web App** that fetches and displays a 
 
 ## 🚀 Deployment    
 
-🔗 **[Live Demo]([https://mood-tracker-js-sooty.vercel.app/](https://youtube-videos-listing.vercel.app/))**  
+🔗 **[Live Demo](https://youtube-videos-listing.vercel.app/)**  
 
