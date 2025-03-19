@@ -54,12 +54,11 @@ searchBtn.addEventListener("click", ()=>{
         const tagsArr = tags.split(",")
         console.log(tagsArr);
         if(tagsArr.includes(filter.toLowerCase())){
-            console.log("hii");
             flag = false
             box.style.display = ""
         }
         else if(title.toLowerCase().includes(filter.toLowerCase())){
-            console.log("hii");
+            flag = false
             box.style.display = ""
         }
         else{
